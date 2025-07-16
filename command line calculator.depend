@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1752615350 source:/home/thorn/Documents/CodingShitNigga/calculator command line /command line calculator/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
